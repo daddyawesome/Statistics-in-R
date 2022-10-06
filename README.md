@@ -11,4 +11,4 @@ Here is [My Library](https://notebooks.azure.com/daddyawesome/projects/Rstudies)
 
 
 ## EDIT Since AZURE NOTEBOOK is Decommisioned
-I will use binder
+I will use binder or jupyterlab lite
